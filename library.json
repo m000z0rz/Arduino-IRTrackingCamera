@@ -1,0 +1,20 @@
+{
+  "name": "IRTrackingCamera",
+  "keywords": "ir, tracking, positioning, camera, sensor, dfr-553, sen0158, wiimote",
+  "description": "Arduino Library for DF Robot's IR Tracking Camera sensor ( https://www.dfrobot.com/product-1088.html ) ",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/m000z0rz/Arduino-IRTrackingCamera.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Brian Baker",
+      "maintainer": true
+    }
+  ],
+  "version": "0.1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
